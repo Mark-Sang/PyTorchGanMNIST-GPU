@@ -1,0 +1,1 @@
+use GAN to generate MNIST,and use GPU to acclerate this
